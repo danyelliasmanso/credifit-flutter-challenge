@@ -6,6 +6,11 @@ import 'package:flutter_challenge/app/validators/bradescoValidator.dart';
 import 'package:flutter_challenge/app/validators/itauValidator.dart';
 
 
+
+//Não foi montada a parte dos testes unitários, pois não tenho conhecimento nesta parte, porém, programadores estão em contante aprendizado,
+//sendo assim, estou/estarei dispsto a aprender sobre teste unitários. Muito Obrigado!
+
+
   class HomeScreen extends StatefulWidget {
     @override
     _HomeScreenState createState() => _HomeScreenState();
